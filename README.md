@@ -1,0 +1,1 @@
+https://api.onlyoffice.com/zh/editors/vue
